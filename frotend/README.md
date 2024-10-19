@@ -48,3 +48,4 @@ export default tseslint.config({
   },
 })
 ```
+Pablo Azael Carballo Pérez
